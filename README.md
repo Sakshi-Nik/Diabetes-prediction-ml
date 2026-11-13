@@ -4,7 +4,7 @@ A machine learning-based web application that predicts the possibility of diabet
 
 ## 🚀 Live Demo
 
-🔗 **[Try the Diabetes Prediction App](https://diabetes-prediction-ml-cm57xq8jfv9rqnsnwqng77.streamlit.app/)**
+🔗 **[Try the Diabetes Prediction App](https://diabetes-prediction-ml-cm57xq8jfv9rqnsmwqng77.streamlit.app/)**
 
 ## 📌 Project Overview
 
@@ -154,7 +154,7 @@ This project is developed for educational and academic purposes. The predictions
 
 ## 👩‍💻 Author
 
-**Swati Patil**
+**Sakshi Nikam**
 
 GitHub: [Sakshi-Nik](https://github.com/Sakshi-Nik)
 
