@@ -71,7 +71,7 @@ The dataset contains 768 patient records with the following eight input features
 
 ### Diabetes Prediction Interface
 
-![Diabetes Prediction App Screenshot](screenshots/diabetes-prediction.png)
+![Diabetes Prediction App Screenshot](diabetes_prediction_runnable/screenshots/diabetes-prediction.png)
 
 ### Prediction Result
 
